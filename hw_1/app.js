@@ -1,3 +1,4 @@
+//Теоретична частина 2
 
 const name1 = prompt('Enter name');
 const age = prompt('Enter age');
