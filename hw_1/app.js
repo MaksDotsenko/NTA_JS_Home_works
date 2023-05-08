@@ -13,6 +13,5 @@ if (age < 18) {
     else{
         alert('You are not allowed to visit this website')
     } 
-} else (age > 22){
+} else (age > 22)
     alert(`Welcome ${name1}`);
-}
